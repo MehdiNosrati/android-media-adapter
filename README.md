@@ -2,6 +2,8 @@
 # android-media-adapter
 An android library for indexing photos and videos in attachment selections
 
+[![HitCount](http://hits.dwyl.com/{mehdinosrati}/{android-media-adapter}.svg)](http://hits.dwyl.com/{mehdinosrati}/{android-media-adapter})
+
 **Sample usage:**
 * xml:
 ```
