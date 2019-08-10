@@ -1,4 +1,4 @@
-package io.mns.android_media_adapter;
+package io.mns.mediaadapter;
 
 import org.junit.Test;
 

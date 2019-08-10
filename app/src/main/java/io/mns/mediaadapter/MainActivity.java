@@ -1,6 +1,7 @@
-package io.mns.android_media_adapter;
+package io.mns.mediaadapter;
 
 import androidx.appcompat.app.AppCompatActivity;
+
 import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {

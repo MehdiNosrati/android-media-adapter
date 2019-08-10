@@ -1,6 +1,7 @@
-package io.mns.android_media_adapter;
+package io.mns.mediaadapter;
 
 import android.content.Context;
+
 import androidx.test.InstrumentationRegistry;
 import androidx.test.runner.AndroidJUnit4;
 
